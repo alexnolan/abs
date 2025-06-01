@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Listen to audiobooks and podcasts on your TV",
   "packageType": "mods",
-  "websiteURL": "https://192.168.68.116:13378",
+  "websiteURL": "http://192.168.68.116:13378/audiobookshelf",
   "main": "scripts/userScript.js",
   "author": "Owen The Kid / Alex Nolan",
   "keys": [
