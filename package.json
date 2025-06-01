@@ -1,10 +1,10 @@
 {
-  "name": "@alexnolan/webtb",
-  "appName": "WebTB",
+  "name": "@alexnolan/abs",
+  "appName": "Audio Book Shelf",
   "version": "0.0.1",
-  "description": "Generic Website Injector app with adblocker",
+  "description": "Listen to audiobooks and podcasts on your TV",
   "packageType": "mods",
-  "websiteURL": "https://www.amazon.co.uk/Amazon-Video/b?&node=3010085031",
+  "websiteURL": "https://192.168.68.116:13378",
   "main": "scripts/userScript.js",
   "author": "Owen The Kid / Alex Nolan",
   "keys": [
@@ -18,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/alexnolan/webtb"
+    "url": "https://github.com/alexnolan/abs"
   },
   "license": "GPL-3.0-only"
 }
