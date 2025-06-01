@@ -1,10 +1,10 @@
-# WebTB
-Generic Website sample with adblocker for tizenbrew
+# Audio Book Shelf TB
+Audio Book Shelf for tizenbrew
 
-[![GitHub issues](https://img.shields.io/github/issues/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb/commits)
-[![GitHub stars](https://img.shields.io/github/stars/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb)
-[![GitHub license](https://img.shields.io/github/license/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/alexnolan/abs.svg)](https://github.com/alexnolan/abs/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/alexnolan/abs.svg)](https://github.com/alexnolan/abs/commits)
+[![GitHub stars](https://img.shields.io/github/stars/alexnolan/abs.svg)](https://github.com/alexnolan/abs)
+[![GitHub license](https://img.shields.io/github/license/alexnolan/abs.svg)](https://github.com/alexnolan/abs/blob/master/LICENSE)
 
 ## Features
 
@@ -21,4 +21,4 @@ Forked from [TwitchTB](https://github.com/owen-the-kid/TwitchTB), so open a issu
 
 ## License
 
-This project is licensed under the [GPL-3.0-only License](https://github.com/owen-the-kid/TwitchTB/blob/master/LICENSE).
+This project is licensed under the [GPL-3.0-only License](https://github.com/alexnolan/abs/blob/master/LICENSE).
